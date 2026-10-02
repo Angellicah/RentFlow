@@ -1,0 +1,329 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="Ci4VZyTKb6W9bDTs_sox">
+    <mxGraphModel dx="2423" dy="4425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-15" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" value="EconomyCar" vertex="1">
+          <mxGeometry height="88" width="200" y="-1400" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-16" parent="3A8VoI0eFPh6Ji_xfwcY-15" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ Calculate rental cost ( days)&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="54" width="200" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-17" parent="3A8VoI0eFPh6Ji_xfwcY-15" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-86" edge="1" parent="1" source="3A8VoI0eFPh6Ji_xfwcY-20" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="3A8VoI0eFPh6Ji_xfwcY-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-20" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" value="SUV" vertex="1">
+          <mxGeometry height="88" width="200" x="240" y="-1400" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-21" parent="3A8VoI0eFPh6Ji_xfwcY-20" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ Calculate rental cost ( days)&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="54" width="200" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-22" parent="3A8VoI0eFPh6Ji_xfwcY-20" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-23" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" value="LuxuryCar" vertex="1">
+          <mxGeometry height="88" width="200" x="480" y="-1400" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-24" parent="3A8VoI0eFPh6Ji_xfwcY-23" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ Calculate rental cost ( days)&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="54" width="200" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-25" parent="3A8VoI0eFPh6Ji_xfwcY-23" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-26" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" value="Payment" vertex="1">
+          <mxGeometry height="122" width="200" x="240" y="-1240" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-27" parent="3A8VoI0eFPh6Ji_xfwcY-26" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- Rental&lt;div&gt;- Amount&lt;/div&gt;" vertex="1">
+          <mxGeometry height="44" width="200" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-28" parent="3A8VoI0eFPh6Ji_xfwcY-26" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-29" parent="3A8VoI0eFPh6Ji_xfwcY-26" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ Process payment()" vertex="1">
+          <mxGeometry height="44" width="200" y="78" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-30" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" value="MpesaPayment" vertex="1">
+          <mxGeometry height="104" width="200" y="-1040" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-31" parent="3A8VoI0eFPh6Ji_xfwcY-30" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Phone number" vertex="1">
+          <mxGeometry height="35" width="200" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-32" parent="3A8VoI0eFPh6Ji_xfwcY-30" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="61" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-33" parent="3A8VoI0eFPh6Ji_xfwcY-30" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ Process payment()" vertex="1">
+          <mxGeometry height="35" width="200" y="69" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-89" edge="1" parent="1" source="3A8VoI0eFPh6Ji_xfwcY-34" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="3A8VoI0eFPh6Ji_xfwcY-29" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-34" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" value="CardPayment" vertex="1">
+          <mxGeometry height="104" width="200" x="240" y="-1040" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-35" parent="3A8VoI0eFPh6Ji_xfwcY-34" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Last four digits" vertex="1">
+          <mxGeometry height="35" width="200" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-36" parent="3A8VoI0eFPh6Ji_xfwcY-34" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="61" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-37" parent="3A8VoI0eFPh6Ji_xfwcY-34" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ Process payment()" vertex="1">
+          <mxGeometry height="35" width="200" y="69" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-38" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" value="CashPayment" vertex="1">
+          <mxGeometry height="104" width="200" x="480" y="-1040" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-39" parent="3A8VoI0eFPh6Ji_xfwcY-38" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Cash received" vertex="1">
+          <mxGeometry height="35" width="200" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-40" parent="3A8VoI0eFPh6Ji_xfwcY-38" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="61" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-41" parent="3A8VoI0eFPh6Ji_xfwcY-38" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ Process payment()" vertex="1">
+          <mxGeometry height="35" width="200" y="69" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-43" parent="1" style="group;connectable=0;transparentBounds=1;groupPadding=20;containerType=tree;childLayout=%5B%7B%22layout%22%3A%22elkTree%22%2C%22config%22%3A%7B%22elk.direction%22%3A%22DOWN%22%2C%22elk.spacing.nodeNode%22%3A%2240%22%2C%22elk.spacing.edgeNode%22%3A%2220%22%2C%22elk.padding%22%3A%22%5Btop%3D40%2Cleft%3D20%2Cbottom%3D20%2Cright%3D20%5D%22%2C%22corners%22%3A%22rounded%22%2C%22resizeLayoutRoot%22%3Atrue%2C%22resizeNodes%22%3Afalse%7D%7D%5D;" value="" vertex="1">
+          <mxGeometry as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-5" parent="3A8VoI0eFPh6Ji_xfwcY-43" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="Vehicle" vertex="1">
+          <mxGeometry height="280" width="200" x="240" y="-1760" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-6" parent="3A8VoI0eFPh6Ji_xfwcY-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- Registration number&lt;div&gt;- Make&lt;/div&gt;&lt;div&gt;- Model&lt;/div&gt;&lt;div&gt;- Year&lt;/div&gt;&lt;div&gt;- Daily rate&lt;/div&gt;&lt;div&gt;- Available&lt;/div&gt;" vertex="1">
+          <mxGeometry height="104" width="200" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-7" parent="3A8VoI0eFPh6Ji_xfwcY-5" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-8" parent="3A8VoI0eFPh6Ji_xfwcY-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ Is available ()&lt;div&gt;+ Mark as rented ()&lt;/div&gt;&lt;div&gt;+ Mark as available ()&lt;/div&gt;&lt;div&gt;+ Display details ()&lt;/div&gt;&lt;div&gt;+ Validate days (days)&lt;/div&gt;&lt;div&gt;+ Calculate rental cost (days)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="142" width="200" y="138" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-9" edge="1" parent="3A8VoI0eFPh6Ji_xfwcY-43" source="3A8VoI0eFPh6Ji_xfwcY-5" style="curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=1;entryDx=0;entryDy=0;noEdgeStyle=1;orthogonal=1;" target="3A8VoI0eFPh6Ji_xfwcY-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="175" y="-370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-10" edge="1" parent="3A8VoI0eFPh6Ji_xfwcY-43" source="3A8VoI0eFPh6Ji_xfwcY-5" style="curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;noEdgeStyle=1;orthogonal=1;" target="3A8VoI0eFPh6Ji_xfwcY-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="275" y="-350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-11" edge="1" parent="3A8VoI0eFPh6Ji_xfwcY-43" source="3A8VoI0eFPh6Ji_xfwcY-5" style="curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0;entryDx=0;entryDy=0;noEdgeStyle=1;orthogonal=1;" target="3A8VoI0eFPh6Ji_xfwcY-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="135" y="-500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-87" edge="1" parent="3A8VoI0eFPh6Ji_xfwcY-43" style="curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.789;entryY=1.027;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;noEdgeStyle=1;orthogonal=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="-1400" as="sourcePoint" />
+            <mxPoint x="397.79999999999995" y="-1479.9959999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-85" edge="1" parent="3A8VoI0eFPh6Ji_xfwcY-43" style="curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.157;entryY=1.021;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;exitX=0.709;exitY=0.007;exitDx=0;exitDy=0;exitPerimeter=0;noEdgeStyle=1;orthogonal=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="141.79999999999995" y="-1402.364" as="sourcePoint" />
+            <mxPoint x="271.4" y="-1479.998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-68" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" value="Customers" vertex="1">
+          <mxGeometry height="242" width="160" y="-840" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-69" parent="3A8VoI0eFPh6Ji_xfwcY-68" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- Customer ID&lt;div&gt;- Name&lt;/div&gt;&lt;div&gt;- Phone number&lt;/div&gt;&lt;div&gt;- National ID&lt;/div&gt;&lt;div&gt;- Driving license&lt;/div&gt;&lt;div&gt;- Rentals&lt;/div&gt;" vertex="1">
+          <mxGeometry height="104" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-70" parent="3A8VoI0eFPh6Ji_xfwcY-68" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="2" width="160" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-71" parent="3A8VoI0eFPh6Ji_xfwcY-68" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ Display details()&lt;div&gt;+ Add rental (rental)&lt;/div&gt;&lt;div&gt;+ View rental history ()&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="160" y="132" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-131" edge="1" parent="1" source="3A8VoI0eFPh6Ji_xfwcY-72" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="3A8VoI0eFPh6Ji_xfwcY-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-133" connectable="0" parent="3A8VoI0eFPh6Ji_xfwcY-131" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;rotation=90;" value="1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1" vertex="1">
+          <mxGeometry relative="1" x="-0.3467" y="5" as="geometry">
+            <mxPoint x="5" y="21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-72" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" value="Rentals" vertex="1">
+          <mxGeometry height="320" width="200" x="400" y="-840" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-73" parent="3A8VoI0eFPh6Ji_xfwcY-72" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- Rental ID&lt;div&gt;- Customer&lt;/div&gt;&lt;div&gt;- Vehicle&lt;/div&gt;&lt;div&gt;- Rental days&lt;/div&gt;&lt;div&gt;- Actual days&lt;/div&gt;&lt;div&gt;- Status&lt;/div&gt;&lt;div&gt;- Base coat&lt;/div&gt;&lt;div&gt;- Late fee&lt;/div&gt;&lt;div&gt;- Damage charge&lt;/div&gt;&lt;div&gt;- _Paid&lt;/div&gt;" vertex="1">
+          <mxGeometry height="164" width="200" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-74" parent="3A8VoI0eFPh6Ji_xfwcY-72" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-75" parent="3A8VoI0eFPh6Ji_xfwcY-72" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ Calculate late fee ()&lt;div&gt;+ Calculate total ()&lt;/div&gt;&lt;div&gt;+ Complete rental ()&lt;/div&gt;&lt;div&gt;+ Mark as paid ()&lt;/div&gt;&lt;div&gt;+ Is paid ()&lt;/div&gt;&lt;div&gt;+ Display rental details ()&lt;/div&gt;" vertex="1">
+          <mxGeometry height="122" width="200" y="198" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-90" edge="1" parent="1" source="3A8VoI0eFPh6Ji_xfwcY-38" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.689;entryY=1.041;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" target="3A8VoI0eFPh6Ji_xfwcY-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-91" edge="1" parent="1" source="3A8VoI0eFPh6Ji_xfwcY-30" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.201;entryY=1.059;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;exitX=0.705;exitY=-0.033;exitDx=0;exitDy=0;exitPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="173.54871118646201" y="-1042.6" as="sourcePoint" />
+            <mxPoint x="280.20000000000005" y="-1118.004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-93" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" value="Vehicles" vertex="1">
+          <mxGeometry height="280" width="200" x="400" y="-400" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-94" parent="3A8VoI0eFPh6Ji_xfwcY-93" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- Registration number&lt;div&gt;- Make&lt;/div&gt;&lt;div&gt;- Model&lt;/div&gt;&lt;div&gt;- Year&lt;/div&gt;&lt;div&gt;- Daily rate&lt;/div&gt;&lt;div&gt;- Available&lt;/div&gt;" vertex="1">
+          <mxGeometry height="104" width="200" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-95" parent="3A8VoI0eFPh6Ji_xfwcY-93" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-96" parent="3A8VoI0eFPh6Ji_xfwcY-93" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ Is available ()&lt;div&gt;+ Mark as rented ()&lt;/div&gt;&lt;div&gt;+ Mark as available ()&lt;/div&gt;&lt;div&gt;+ Display details ()&lt;/div&gt;&lt;div&gt;+ Validate days (days)&lt;/div&gt;&lt;div&gt;+ Calculate rental cost (days)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="142" width="200" y="138" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-97" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" value="Payments" vertex="1">
+          <mxGeometry height="122" width="200" x="440" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-98" parent="3A8VoI0eFPh6Ji_xfwcY-97" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- Rental&lt;div&gt;- Amount&lt;/div&gt;" vertex="1">
+          <mxGeometry height="44" width="200" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-99" parent="3A8VoI0eFPh6Ji_xfwcY-97" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-100" parent="3A8VoI0eFPh6Ji_xfwcY-97" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ Process payment()" vertex="1">
+          <mxGeometry height="44" width="200" y="78" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-104" edge="1" parent="1" source="3A8VoI0eFPh6Ji_xfwcY-68" style="edgeStyle=none;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.007;entryY=0.572;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;shape=wire;dashed=1;" target="3A8VoI0eFPh6Ji_xfwcY-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-132" connectable="0" parent="3A8VoI0eFPh6Ji_xfwcY-104" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 0..*" vertex="1">
+          <mxGeometry relative="1" x="-0.2625" y="-3" as="geometry">
+            <mxPoint x="32" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-124" edge="1" parent="1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="360" as="sourcePoint" />
+            <mxPoint x="400" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-135" edge="1" parent="1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.083;entryY=-0.021;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.031;exitY=0.121;exitDx=0;exitDy=0;exitPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="57.44" y="140" />
+              <mxPoint x="40" y="550" />
+              <mxPoint x="57.44" y="790" />
+            </Array>
+            <mxPoint x="239.99999999999994" y="189.68399999999974" as="sourcePoint" />
+            <mxPoint x="114.0399999999999" y="1003.1199999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-141" edge="1" parent="1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.8;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="735" y="130" />
+              <mxPoint x="755" y="690" />
+            </Array>
+            <mxPoint x="475" y="186.31578947368462" as="sourcePoint" />
+            <mxPoint x="595" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-105" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" value="CarRentalSystem" vertex="1">
+          <mxGeometry height="360" width="240" x="240" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-106" parent="3A8VoI0eFPh6Ji_xfwcY-105" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- Name&lt;div&gt;- Vehicles&lt;/div&gt;&lt;div&gt;- Customers&lt;/div&gt;&lt;div&gt;- Rentals&lt;/div&gt;&lt;div&gt;- Payments&lt;/div&gt;&lt;div&gt;- _Revenue&lt;/div&gt;" vertex="1">
+          <mxGeometry height="122" width="240" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-107" parent="3A8VoI0eFPh6Ji_xfwcY-105" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="240" y="148" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-108" parent="3A8VoI0eFPh6Ji_xfwcY-105" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;div&gt;+ Add vehicle()&lt;/div&gt;&lt;div&gt;+ Find vehicle()&lt;/div&gt;&lt;div&gt;+ Show available vehicles()&lt;/div&gt;&lt;div&gt;+ Search vehicles()&lt;/div&gt;&lt;div&gt;+ Register customer()&lt;/div&gt;&lt;div&gt;+ Find customer()&lt;/div&gt;&lt;div&gt;+ Rent vehicle()&lt;/div&gt;&lt;div&gt;+ Return vehicle()&lt;/div&gt;&lt;div&gt;+ Show active rentals()&lt;/div&gt;&lt;div&gt;+ Show completed rentals()&lt;/div&gt;&lt;div&gt;+ Process payment()&lt;/div&gt;&lt;div&gt;+ Revenue&lt;/div&gt;&lt;div&gt;+ Generate report()&lt;/div&gt;" vertex="1">
+          <mxGeometry height="204" width="240" y="156" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-109" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" value="Customers" vertex="1">
+          <mxGeometry height="242" width="160" x="120" y="559" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-110" parent="3A8VoI0eFPh6Ji_xfwcY-109" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- Customer ID&lt;div&gt;- Name&lt;/div&gt;&lt;div&gt;- Phone number&lt;/div&gt;&lt;div&gt;- National ID&lt;/div&gt;&lt;div&gt;- Driving license&lt;/div&gt;&lt;div&gt;- Rentals&lt;/div&gt;" vertex="1">
+          <mxGeometry height="104" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-111" parent="3A8VoI0eFPh6Ji_xfwcY-109" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="2" width="160" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-112" parent="3A8VoI0eFPh6Ji_xfwcY-109" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ Display details()&lt;div&gt;+ Add rental (rental)&lt;/div&gt;&lt;div&gt;+ View rental history ()&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="160" y="132" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-129" edge="1" parent="1" source="3A8VoI0eFPh6Ji_xfwcY-113" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="3A8VoI0eFPh6Ji_xfwcY-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-134" connectable="0" parent="3A8VoI0eFPh6Ji_xfwcY-129" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;rotation=90;" value="1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1" vertex="1">
+          <mxGeometry relative="1" x="-0.2633" y="4" as="geometry">
+            <mxPoint x="6" y="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-113" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" value="Rentals" vertex="1">
+          <mxGeometry height="320" width="200" x="440" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-114" parent="3A8VoI0eFPh6Ji_xfwcY-113" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- Rental ID&lt;div&gt;- Customer&lt;/div&gt;&lt;div&gt;- Vehicle&lt;/div&gt;&lt;div&gt;- Rental days&lt;/div&gt;&lt;div&gt;- Actual days&lt;/div&gt;&lt;div&gt;- Status&lt;/div&gt;&lt;div&gt;- Base coat&lt;/div&gt;&lt;div&gt;- Late fee&lt;/div&gt;&lt;div&gt;- Damage charge&lt;/div&gt;&lt;div&gt;- _Paid&lt;/div&gt;" vertex="1">
+          <mxGeometry height="164" width="200" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-115" parent="3A8VoI0eFPh6Ji_xfwcY-113" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-116" parent="3A8VoI0eFPh6Ji_xfwcY-113" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ Calculate late fee ()&lt;div&gt;+ Calculate total ()&lt;/div&gt;&lt;div&gt;+ Complete rental ()&lt;/div&gt;&lt;div&gt;+ Mark as paid ()&lt;/div&gt;&lt;div&gt;+ Is paid ()&lt;/div&gt;&lt;div&gt;+ Display rental details ()&lt;/div&gt;" vertex="1">
+          <mxGeometry height="122" width="200" y="198" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-117" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" value="Vehicles" vertex="1">
+          <mxGeometry height="280" width="200" x="90" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-118" parent="3A8VoI0eFPh6Ji_xfwcY-117" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- Registration number&lt;div&gt;- Make&lt;/div&gt;&lt;div&gt;- Model&lt;/div&gt;&lt;div&gt;- Year&lt;/div&gt;&lt;div&gt;- Daily rate&lt;/div&gt;&lt;div&gt;- Available&lt;/div&gt;" vertex="1">
+          <mxGeometry height="104" width="200" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-119" parent="3A8VoI0eFPh6Ji_xfwcY-117" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-120" parent="3A8VoI0eFPh6Ji_xfwcY-117" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ Is available ()&lt;div&gt;+ Mark as rented ()&lt;/div&gt;&lt;div&gt;+ Mark as available ()&lt;/div&gt;&lt;div&gt;+ Display details ()&lt;/div&gt;&lt;div&gt;+ Validate days (days)&lt;/div&gt;&lt;div&gt;+ Calculate rental cost (days)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="142" width="200" y="138" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-126" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;entryX=0.646;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry relative="1" width="120" as="geometry">
+            <mxPoint x="320" y="441" as="sourcePoint" />
+            <mxPoint x="200" y="559.9960000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-127" edge="1" parent="1" source="3A8VoI0eFPh6Ji_xfwcY-108" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.324;exitY=1.015;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry relative="1" width="120" as="geometry">
+            <Array as="points" />
+            <mxPoint x="439.72" y="368.5680000000002" as="sourcePoint" />
+            <mxPoint x="320" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-128" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="3A8VoI0eFPh6Ji_xfwcY-113" value="">
+          <mxGeometry relative="1" width="120" as="geometry">
+            <mxPoint x="400" y="440" as="sourcePoint" />
+            <mxPoint x="530.2" y="612.2399999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-130" edge="1" parent="1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.555;entryY=-0.018;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="199.5041757683515" y="806.04" as="sourcePoint" />
+            <mxPoint x="200.12" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-136" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;rotation=270;" value="manages" vertex="1">
+          <mxGeometry height="30" width="60" x="40" y="621" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-140" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="manages" vertex="1">
+          <mxGeometry height="10" width="60" x="450" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-142" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;rotation=90;" value="manages" vertex="1">
+          <mxGeometry height="10" width="60" x="720" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-143" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="manages" vertex="1">
+          <mxGeometry height="10" width="60" x="230" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="3A8VoI0eFPh6Ji_xfwcY-147" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="RENTFLOW- CAR RENTAL MANAGEMENT SYSTEM&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;UML Class Diagram | SafariDrive Rentals&lt;/div&gt;" vertex="1">
+          <mxGeometry height="20" width="620" x="10" y="-1880" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
